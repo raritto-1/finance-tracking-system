@@ -17,9 +17,9 @@ This project is a simple **Finance Tracking System** built with Python to help u
 ## Technologies Used
 
 - Python
-- Pandas (for data handling)
-- Optional: Flask (if web interface exists)
-- Optional: Matplotlib (for visual reports)
+- Pandas 
+- Optional: Flask 
+
 
 ---
 
