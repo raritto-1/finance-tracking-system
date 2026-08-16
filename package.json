@@ -1,0 +1,14 @@
+{
+  "name": "finance-tracking-system",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=@finance/web",
+    "build": "npm run build --workspace=@finance/web",
+    "preview": "npm run preview --workspace=@finance/web"
+  }
+}
